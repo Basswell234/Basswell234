@@ -1,16 +1,13 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basswell234)](https://github.com/Basswell234/github-readme-stats)
-<!--
-**Basswell234/Basswell234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Basswell Mbilima
+#### Software Engineer | Graphic Designer | Content Creator
+![Software Engineer | Graphic Designer | Content Creator](https://github.com/Basswell234/Basswell234/blob/main/banner.jpg)
 
-Here are some ideas to get you started:
+I'm Basswell from Zambia am a software developer and aspiring content creator, I want to share what I have learned. I really enjoy learning technologies and building applications that impact the world. I also enjoy design, videography, and graphic design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Javascript, Python, Java, C++, PHP, C#, HTML, CSS, Django, SpringBoot, Bootstrap, UX/UI
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
