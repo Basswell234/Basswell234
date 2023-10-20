@@ -5,7 +5,7 @@ I'm Basswell from Zambia am a software developer and aspiring content creator, I
 
 Skills: Javascript, Python, Java, C++, PHP, C#, HTML, CSS, Django, SpringBoot, Bootstrap, UX/UI
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learning .NET, MAIU and React
 
 
 
