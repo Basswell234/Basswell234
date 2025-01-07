@@ -5,7 +5,7 @@ I'm Basswell, a software developer and aspiring content creator - I want to be a
 
 Skills: Skills: Javascript, Python, Java, C++, PHP, C#, HTML, CSS, Django, SpringBoot, Bootstrap, UX/UI
 
-- 🔭 I’m currently learning Data Engineering and AI
+- 🔭 I’m currently learning Blazor for Web Development
 
 
 
